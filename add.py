@@ -1,3 +1,4 @@
 a=10;
 b=25;
-print(a+b)
+c=35;
+print(a+b+c)
